@@ -1,2 +1,2 @@
 requests
-aiogram
+beautifulsoup4
